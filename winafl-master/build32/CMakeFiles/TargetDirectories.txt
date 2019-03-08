@@ -1,0 +1,13 @@
+C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/custom_net_fuzzer.dir
+C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/test.dir
+C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/custom_winafl_server.dir
+C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/afl-showmap.dir
+C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/test_servermode.dir
+C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/test_netmode.dir
+C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/afl-fuzz.dir
+C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/test_gdiplus.dir
+C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/test_static.dir
+C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/afl-tmin.dir
+C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/winafl.dir
+C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/ALL_BUILD.dir
+C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,3 @@
+﻿  Checking Build System
+  CMake does not need to re-run because C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/third_party/processor-trace/CMakeFiles/generate.stamp is up-to-date.

@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Mr.wang/Documents/Fuzzing/winafl-master/build32/CMakeFiles/generate.stamp is up-to-date.
+  test.cpp
+  test.vcxproj -> C:\Users\Mr.wang\Documents\Fuzzing\winafl-master\build32\bin\Debug\test.exe
